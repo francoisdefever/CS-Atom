@@ -46,20 +46,20 @@ code {
     text-align: center;
 }
 #history {
-    background-color: black;
+    background-color: #00394A;
     font-family: "Nova Mono", sans-serif;
     font-size: 20px;
     text-align: justify;
-    color: white;
+    color: #00CF3F;
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 4em;
     margin: -20px;
 }
 #starter {
-    background-color: #FA3200;
+    background-color: #00394A;
     font-family: "Nova Mono", sans-serif;
-    color: white;
+    color: #00CF3F;
     font-size: 20px;
     text-align: justify;
     padding-left: 2em;
@@ -69,9 +69,9 @@ code {
     margin: -20px;
 }
 #advanced {
-    background-color: black;
+    background-color: #00394A;
     font-family: "Nova Mono", sans-serif;
-    color: #FA3200;
+    color: #00CF3F;
     padding-left: 2em;
     padding-right: 2em;
     padding-top: 2em;
