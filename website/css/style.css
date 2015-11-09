@@ -24,6 +24,12 @@ img {
 code {
     font-size: 18px;
 }
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
 #histo {
     color: black;
     display: inline-block;
